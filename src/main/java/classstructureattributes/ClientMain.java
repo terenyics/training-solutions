@@ -17,7 +17,7 @@ public class ClientMain {
             client.address = scanner.nextLine();
 
         System.out.println("Collected data: ");
-        System.out.println("Name: " + client.name + ", date of birth: " + client.year + " and address: " + client.address + ".");
+        System.out.println("Name: " + client.name + ", date of birth: " + client.year + " and the address: " + client.address + ".");
 
 
     }
