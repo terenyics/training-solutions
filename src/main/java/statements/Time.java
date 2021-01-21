@@ -25,6 +25,7 @@ public class Time {
     }
 
     public String toString(){
-        return "Az idő: " + this.hours + ":" + this.minutes + ":" + this.seconds;
+
+        return this.hours + ":" + this.minutes + ":" + this.seconds;
     }
 }
