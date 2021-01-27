@@ -4,7 +4,7 @@ public class ArrayOfArraysMain {
 
     public static void main(String[] args) {
         ArrayOfArraysMain arrayOfArraysMain = new ArrayOfArraysMain();
-        arrayOfArraysMain.printArrayOfArrays(arrayOfArraysMain.multiplicationTable(10));
+        arrayOfArraysMain.printArrayOfArrays(arrayOfArraysMain.multiplicationTable(5));
     }
 
     public int[][] multiplicationTable(int size) {
